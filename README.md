@@ -1,7 +1,7 @@
 ;/*
 ;===========================================
-;  Instagram Mass Unfollower
-;  https://pirik3.blogspot.com/
+Instagram Mass Unfollower
+https://pirik3.blogspot.com/
 ;  onlinehile.com
 ;
 ;  Author  : pirik3
